@@ -1,0 +1,51 @@
+>>执行完毕<<
+:45]:[0] 酷狗音乐/MV(/data/media/0/kugou/mv)
+c/download)
+_File)
+Download)
+
+v)
+
+�乐
+版本: 2022091350
+云端同步: 2022-09-13 23:22
+
+查看说明: 
+[1]＝[ 定向成功 ]
+[0]＝[ 存在这个路径 但识别到该路径没有用户下载的文件 所以不执行定向 ]
+[rm]＝[ 删除指定路径空文件夹 ]
+[off] = [ 跳过定向 ]
+
+关于反馈:
+请将此页面截图并说明问题
+
+更新内容:
+#20220913
+#修复验证ping 网络延迟测试失败，规则无法更新
+#国内访问加速github raw国内镜像访问
+#202200808
+#更新了个寂寞
+#202207281440
+
+apkpure  /storage/emulated/0Android/data/com.apkpure.aegon/files/download 
+葫芦侠三楼 /storage/emulated/0/Android/data/com.huati/downloads
+ tg新  /storage/emulated/0/Android/data/org.telegram.messenger/files/Telegram/Telegram Documents
+云更新地址修改 反馈增加规则admin@sxkiss.com
+#202107311440
+脚本优化
+
+#202107302049
+钉钉(包含空间隔离目录) /storage/emulated/0/DingTalk
+
+#202107280444
+腾讯文档(包含空间隔离目录) /storage/emulated/0/TencentDocs/download
+TapTap /storage/emulated/0/Android/data/com.taptap/files/Download/taptaptmp
+
+#202107260220
+Chrome /storage/emulated/0/Android/data/com.android.chrome/files/Download
+
+#202107211340
+存储空间隔离后的TIM目录
+存储空间隔离后的皮皮虾目录
+日志兼容Magisk_Lite
+
